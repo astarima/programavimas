@@ -1,0 +1,3 @@
+BMW___  X5___0___0___false
+Jaguar___  XF___0___0___false
+Nissan___  GT-R___30___5___true
